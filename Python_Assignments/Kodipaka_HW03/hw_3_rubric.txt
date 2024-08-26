@@ -1,0 +1,23 @@
+-----------------------------------------------------
+General Guideline :
+-----------------------------------------------------
+For each question or subquestion (if points are mentioned basically) :
+* 10/10 or 5/5 for questions answered correctly
+* 8/10 or 4/5 if code and results have minor flaws [1-2 flaws]
+* 6/10 or 3/5 if code and results have major flaws (but a genuine attempt was made) [ more than 2 flaws]
+* 4/10 or 2/5 if completely wrong but genuine attempt was made
+* 0 otherwise
+
+-----------------------------------------------------
+STANDARD FLAWS (on a question or subquestion basis)
+-----------------------------------------------------
+1. Not getting the correct result [1 flaw]
+2.  Code not working fully(2 flaws worth) or partially (1 flaw)
+3. Student not doing what was asked (depending on severity, it can be major or minor).
+4. Not commenting the code [1 flaw]
+5. For this HW using prohibited packages (as mentioned in the homework) will be a major flaw
+-----------------------------------------------------
+ Specific instructions for certain questions:
+ -----------------------------------------------------
+Q2. Not using inheritance will be seen as a major flaw.
+Q3. The norm ‖𝑌𝑌−𝐼^(-1)‖𝐹 being greater than 10^-8 is an indication that it is a major flaw directly.

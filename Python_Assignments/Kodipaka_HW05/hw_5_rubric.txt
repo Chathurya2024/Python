@@ -1,0 +1,34 @@
+-----------------------------------------------------
+General Guideline :
+-----------------------------------------------------
+For each question :
+* 10/10 or 5/5 for questions answered correctly
+* 8/10 or 4/5 if results have minor flaws [1-2 flaws]
+* 6/10 or 3/5 if results have major flaws [3-4 flaws] (but a genuine attempt was made)
+* 4/10 or 2/5 if completely wrong (or code does not work) but genuine attempt was made
+* 0 otherwise
+
+-----------------------------------------------------
+STANDARD FLAWS
+-----------------------------------------------------
+1. Code not working fully(major flaw) or partially (minor).
+2. Student not doing what was asked (depending on severity, it can be major or minor).
+
+-----------------------------------------------------
+ Specific instructions for certain questions:
+ 
+ -----------------------------------------------------
+Q1. Make sure plot after applying A is same as the last plot (plot after applying U) else minor flaw. If they didn't apply the transformation (Matrix multiplications) in the correct order is also a minor flaw (Vh first then S and then U).
+
+
+Q2. (Absolute and relative error values don't have to be the same but they need to be less than 10^-10)
+If they use np.linalg.inv or np.linalg.solve, its a minor flaw.
+
+Q3. and Q3 (a) the final vector or matrix (with substituted values) should be same. IF they miss or do a step differently in the middle, that is fine.
+
+
+ 
+ 
+ 
+ 
+ 

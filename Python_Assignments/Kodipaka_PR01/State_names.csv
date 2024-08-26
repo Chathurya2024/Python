@@ -1,0 +1,111 @@
+﻿state,gender,fname,lname
+florida,m,william,smith
+florida,m, james, johnson
+florida,m, michael, garcia
+florida,m, david, brown
+florida,m, john, williams
+florida,f,maria, davis
+florida,f, jennifer, rodriguez
+florida,f, elizabeth, jones
+florida,f, jessica, perez
+florida,f, amanda, martinez.
+georgia,m, william,smith
+georgia,m, james, johnson
+georgia,m, michael, williams
+georgia,m, john, brown
+georgia,m, robert, jones
+georgia,f,mary, davis
+georgia,f, jennifer, garcia
+georgia,f, elizabeth, wilson
+georgia,f, jessica, rodriguez
+georgia,f, kimberly, thomas
+maine,m, david,smith
+maine,m, richard, brown
+maine,m, christopher, johnson
+maine,m, charles, williams
+maine,m, thomas, mitchell
+maine,f, barbara, clark
+maine,f, deborah, turner
+maine,f, jennifer, davis
+maine,f, donna, allen
+maine,f, nancy, anderson
+maryland,m,robert,smith
+maryland,m, christopher, johnson
+maryland,m, richard, brown
+maryland,m, charles, jones
+maryland,m, danie, williams
+maryland,f,mary, davis
+maryland,f, patricia, jackson
+maryland,f, jennifer, robinson
+maryland,f, linda, clark
+maryland,f, susan, thompson
+massachusetts,m,john,smith
+massachusetts,m, william, johnson
+massachusetts,m, james, brown
+massachusetts,m, michael, rodriguez
+massachusetts,m, david, sullivan
+massachusetts,f,susan, garcia
+massachusetts,f, karen, murphy
+massachusetts,f, deborah, davis
+massachusetts,f, nancy, oliveira
+massachusetts,f, carol, martin.
+new york,m,michael,rodriguez
+new york,m, john, rivera
+new york,m, david, garcia
+new york,m, joseph, lopez
+new york,m, william, hernandez
+new york,f,mary, martinez
+new york,f, patricia, gonzalez
+new york,f, linda, torres
+new york,f, jennifer, perez
+new york,f, elizabeth, sanchez
+new jersey,m,michael,rodriguez
+new jersey,m, john, johnson
+new jersey,m, david, smith
+new jersey,m, joseph, hernandez
+new jersey,m, william, martinez
+new jersey,f,mary, gonzalez
+new jersey,f, patricia, rivera
+new jersey,f, jennifer, patel
+new jersey,f, elizabeth, singh
+new jersey,f, barbara, brown
+north carolina,m, robert,smith
+north carolina,m, christopher, johnson
+north carolina,m, joseph, williams
+north carolina,m, daniel, brown
+north carolina,m, richard, davis
+north carolina,f,patricia, jones
+north carolina,f, deborah, miller
+north carolina,f, susan, wilson
+north carolina,f, barbara, martin
+north carolina,f, jennifer, moore
+pennsylvania,m,james,smith
+pennsylvania,m, joseph, johnson
+pennsylvania,m, robert, miller
+pennsylvania,m, christopher, brown
+pennsylvania,m, richard, davis
+pennsylvania,f,linda, wilson
+pennsylvania,f, patricia, clark
+pennsylvania,f, deborah, martin
+pennsylvania,f, susan, campbell
+pennsylvania,f, barbara, harris
+south carolina,m,charles, martinez
+south carolina,m, daniel, gonzalez
+south carolina,m,richard, torres
+south carolina,m,jose, perez
+south carolina,m,james, sanchez
+south carolina,f, karen,smith
+south carolina,f, linda, johnson
+south carolina,f, barbara, garcia
+south carolina,f, deborah, brown
+south carolina,f, jennifer, williams
+virginia,m,michael, jones
+virginia,m,anthony, perez
+virginia,m,christopher, martinez.
+virginia,m,matthew,smith
+virginia,m,joseph, johnson
+virginia,f,patricia, brown
+virginia,f, linda, davis
+virginia,f, jennifer, jones
+virginia,f,nicole, miller
+virginia,f,deborah, wilson
